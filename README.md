@@ -43,3 +43,17 @@ The diagrams below shows the UMAP plot of the original, perturbed, and adversari
 ## Parameter Protection of DNN model using the SAP and IR
 The segment below contains the visual results of the Parameter protection methods using the Stochastic activation prunning (SAP) and Input Randomization (IR).
 
+A. _Confusion Matrix of the SAP and IR DNN model Results_:
+
+The diagrams below shows the confusion matrix of the original, perturbed, and adversarial trained DNN models.
+![PP conf SAP](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/9d505a83-0221-42d1-9bf9-974b6204deee)
+![PP conf IR](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/ade93790-533b-42bb-b036-026b157243c4).
+
+B. _Training and Vallidation loss plot of the SAP and IR DNN model Results_:
+
+The diagrams below shows the learning process path of the training and validation loss plot of the SAP and IR DNN.
+models.
+![IR crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/2b63953e-06e6-4bc1-a684-db05e9db5213)
+![sap cross val](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/39217a05-28d9-432a-bda8-01efb71d7024)
+
+
