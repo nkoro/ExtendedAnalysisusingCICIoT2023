@@ -7,10 +7,10 @@ In this repository, specifically shows the consistence of the proposed DNN model
 <table>
   <tr>
     <td>
-      <img src="relative/path/to/image1.jpg" alt="Image 1">
+      <img src="https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/raw/main/assets/83587677/a59aaa53-3b3e-4d3a-abb6-58c46da8ae65.jpg" alt="Image 1">
     </td>
     <td>
-      <img src="relative/path/to/image2.jpg" alt="Image 2">
+      <img src="https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/raw/main/assets/83587677/another-image.jpg" alt="Image 2">
     </td>
   </tr>
   <tr>
@@ -18,6 +18,7 @@ In this repository, specifically shows the consistence of the proposed DNN model
     <td>Caption for Image 2</td>
   </tr>
 </table>
+
 
 
 ![shap_SAP](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/a59aaa53-3b3e-4d3a-abb6-58c46da8ae65)
