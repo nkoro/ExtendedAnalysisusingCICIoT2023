@@ -15,18 +15,19 @@ Specifically the consistence of the proposed DNN model within the original model
 
 
 A. _Confusion Matrix of the DNN model Results_
+The diagrams below shows the confusion matrix of the original, perturbed, and adversarial trained DNN models.
 ![conf orifinal](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/474b215d-4e99-4084-8a86-3b6fae3ce9cb)
 ![conf perturbed](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/82da4667-c0cf-4f63-bfeb-8b5b11bd0d26)
 ![conf adv](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/9cd47add-4b39-4a4b-862a-40c9ecf9e1e1)
 1bd0d26)
-Confusion matrix of the original, perturbed, and adversarial trained DNN models.
+
 
 B. _Training and Vallidation loss plot of the DNN model Results_
+The diagrams below shows the learning process path of the training and validation loss plot of the original, perturbed, and adversarial trained DNN.
+models of the original, perturbed and adversarial trained DNN models.
 ![original crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/b55b73dd-af03-4202-89d9-a14f8260f490)
 ![perturbation cross val](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/81521580-3330-4be4-a1dc-ba22cabaf3a6)
 ![adv crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/28662697-e5bc-4118-adcb-03c23c0e6667)
-Learning process path of the training and validation loss plot of the original, perturbed, and adversarial trained DNN
-models of the original, perturbed and adversarial trained DNN models
 
 C. _UMAP of the DNN model Results_
 ![umap original](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/a364c571-e3c4-4e3a-aa8f-4ebd8e21c71a)
