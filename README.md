@@ -24,9 +24,9 @@ Learning process path of the training and validation loss plot of the original, 
 models of the original, perturbed and adversarial trained DNN models
 
 C. _UMAP of the DNN model Results_
-![original crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/b55b73dd-af03-4202-89d9-a14f8260f490)
-![perturbation cross val](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/81521580-3330-4be4-a1dc-ba22cabaf3a6)
-![adv crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/28662697-e5bc-4118-adcb-03c23c0e6667)
+![umap original](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/a364c571-e3c4-4e3a-aa8f-4ebd8e21c71a)
+![umap perturbed](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/7441f9fe-412f-4936-847c-6e8fa2773366)
+![umap adv](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/ec3e0e71-3572-4f42-8a9c-160650771f62)
 
 UMAP plot of the original, perturbed, and adversarial trained DNN
 models of the original, perturbed and adversarial trained DNN models
