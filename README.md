@@ -3,7 +3,7 @@
 ![iciiotdataset](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/7547610f-f672-4357-aec6-900fe5aea43b)
 
 
-Dataset Distribution.
+Dataset Distribution of the CICCIoT dataset is provided in the diagram above.
 
 
 This repository elucidates on the significance of the proposed Zero trust threat model on a larger volume of DDoS attacks appraised using the CICIoT2023 data set.
