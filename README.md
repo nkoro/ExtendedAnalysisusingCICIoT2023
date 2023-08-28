@@ -4,6 +4,9 @@
 This repository elucidates on the significance of the proposed Zero trust threat model on a larger volume of DDoS attacks appraised using the CICIoT2023 data set.
 Specifically the consistence of the proposed DNN model within the original model prediction, adversarial perturbation, adversarial training and parameter protection using the CICIoT2023 dataset is provided for additional validation.
 
+![iciiotdataset](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/7547610f-f672-4357-aec6-900fe5aea43b)
+Dataset Distribution.
+
 **Visual Threat Model Results using the CICIoT 2023 Dataset**
 
 A. _Confusion Matrix of the DNN model Results_
@@ -13,7 +16,7 @@ A. _Confusion Matrix of the DNN model Results_
 1bd0d26)
 Confusion matrix of the original, perturbed, and adversarial trained DNN models.
 
-A. _Original DNN model Results_
+B. _Original DNN model Results_
 ![original crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/b55b73dd-af03-4202-89d9-a14f8260f490)
 ![perturbation cross val](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/81521580-3330-4be4-a1dc-ba22cabaf3a6)
 ![adv crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/28662697-e5bc-4118-adcb-03c23c0e6667)
