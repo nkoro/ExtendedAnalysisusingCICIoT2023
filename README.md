@@ -7,4 +7,4 @@ In this repository, we show the consistence of the proposed DNN model in the ori
 The jupyter file contains full details and diagrams.
 
 
-![](Users\Ebuka\DATASET\Summer intensive\summer intensive using MIRIA Dataset\ExtendedAnalysisusingCICIoT2023\shaps final\shap SAP.jpg)
+![](Users\Ebuka\DATASET\Summer intensive\summer intensive using MIRIA Dataset\ExtendedAnalysisusingCICIoT2023\shaps final\shap_SAP.jpg)
