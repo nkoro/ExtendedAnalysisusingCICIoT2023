@@ -1,4 +1,4 @@
-# ExtendedAnalysisusingCICIoT2023
+# Extended Analysis using CICIoT 2023 Dataset
 ![system model gif](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/32a41c22-4f1f-4356-a122-a22421406162)
 ![iciiotdataset](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/7547610f-f672-4357-aec6-900fe5aea43b)
 
