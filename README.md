@@ -13,7 +13,7 @@ Specifically the consistence of the proposed DNN model within the original model
 
 # Visual Threat Model Results using the CICIoT 2023 Dataset
 
-
+## Original, Perturbed and Adversarial trained DNN model
 
 A. _Confusion Matrix of the DNN model Results_:
 
