@@ -39,3 +39,6 @@ The diagrams below shows the UMAP plot of the original, perturbed, and adversari
 ![umap adv](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/ec3e0e71-3572-4f42-8a9c-160650771f62)
 
 
+
+<p style="color: blue;">The segment below contains the visual results of the Parameter protection methods using the Stochastic activation prunning (SAP) and Input Randomization (IR).</p>
+
