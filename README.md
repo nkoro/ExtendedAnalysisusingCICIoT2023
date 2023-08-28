@@ -56,4 +56,8 @@ models.
 ![IR crossval](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/2b63953e-06e6-4bc1-a684-db05e9db5213)
 ![sap cross val](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/39217a05-28d9-432a-bda8-01efb71d7024)
 
+C. _UMAP of the SAP and IR DNN model Results_:
 
+The diagrams below shows the UMAP plot of the SAP and IR DNN models.
+![PP umap using SAP](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/f4c0710e-fc2c-46c0-aa15-25e663ede62f)
+![umap IR](https://github.com/nkoro/ExtendedAnalysisusingCICIoT2023/assets/83587677/56ed3e7d-6897-4e61-8e01-bcac7d61088a)
